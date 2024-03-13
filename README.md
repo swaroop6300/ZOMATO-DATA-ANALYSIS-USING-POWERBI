@@ -1,2 +1,1 @@
-# ZOMATO-DATA-ANALYSIS-USING-POWERBI
-ZOMATO-DATA-ANALYSIS-USING-POWERBI
+This Power BI project analyzed restaurant data to understand the industry, focusing on city and country distributions. The goal was to understand the restaurant industry, focusing on total cities, restaurants, and countries. Visualizations showed the distribution of restaurants across cities and countries. Key findings included the concentration of restaurants in certain cities and the availability of table booking and online delivery services.
